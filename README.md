@@ -1,2 +1,3 @@
 # projectGithub
-je découvre git hub pour comprendre comment il fonctionne 
+je fais mon premier pas sur git hub
+comprendre comment il fonctionne 
